@@ -1,8 +1,9 @@
 #include <iostream>
 
-// Első függvényem c++ nyelven.
-
-// A void annyi, hogy a függvénynek nincs visszatérési értéke.
+/*
+My first function in c++.
+Note: Void means there's no return value for that function.
+*/
 
 void DemonstrationFunction()
 {
